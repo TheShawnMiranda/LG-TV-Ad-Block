@@ -34,7 +34,6 @@
 0.0.0.0 nevoai-iothub-54-prod.azure-devices.net
 0.0.0.0 threeplr-avuypkjypveaj-0.api.amazonvideo.com
 0.0.0.0 cloudfront.xp-assets.aiv-cdn.net
-0.0.0.0 (\.|^)in-addr\.arpa$
 0.0.0.0 cf-trickplay.aux.pv-cdn.net
 0.0.0.0 s3-iad-2.cf.dash.row.aiv-cdn.net
 0.0.0.0 api.us-east-1.aiv-delivery.net
