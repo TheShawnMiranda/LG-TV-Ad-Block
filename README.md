@@ -1,8 +1,8 @@
-# Ads and recommended content blocker for LG TVs
+# Ads and Recommended Content blocker for LG TVs
 
 ## Test info
 
-- Test Device: LG C2
+- Test Device: LG C2 77-inch
 - Test Continent: North America
 - Test Country: United States
 - Test State: Minnesota
@@ -28,7 +28,7 @@ It does not block ads on YouTube. It does not block content on Amazon Prime, HBO
 - Go to the PiHole Dashboard.
 - Select Adlists on the left side.
 - Paste the URL to the Raw blacklist in the address box.
-- Click Add
+- Click the Add button.
 - Click on the Tools dropdown on the left hand side menu bar.
 - Select Update gravity.
 - Click on the Update gravity button.
