@@ -22,7 +22,7 @@ It does not block ads on YouTube. It does not block content on Amazon Prime, HBO
 
 ### Sounds great, how do I use it?
 
-- Open on the [list](https://github.com/TheShawnMiranda/LG-TV-Ad-Block/blob/master/list) file within this repo.
+- Open the [list](https://github.com/TheShawnMiranda/LG-TV-Ad-Block/blob/master/list) file within this repo.
 - Select Raw on the top right.
 - Copy the URL.
 - Go to the PiHole Dashboard.
