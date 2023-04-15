@@ -27,7 +27,7 @@ It does not block ads on YouTube. It does not block content on Amazon Prime, HBO
 - Copy the URL.
 - Go to the PiHole Dashboard.
 - Select Adlists on the left side.
-- Paste the URL to the Raw blacklist in the address box.
+- Paste the URL in the address box.
 - Click the Add button.
 - Click on the Tools dropdown on the left hand side menu bar.
 - Select Update gravity.
