@@ -6,8 +6,8 @@
 - Test Continent: North America
 - Test Country: United States
 - Test State: Minnesota
-- Latest tested firmware version: 03.30.45
-- Date last tested: 27 March 2023
+- Latest tested firmware version: 03.30.67
+- Date last tested: 22 April 2023
 
 ## FAQ
 
