@@ -18,7 +18,7 @@ It also blocks the software update server in case LG comes up with some patch th
 
 ### What doesn't it do?
 
-It does not block ads on YouTube. It does not block content on Amazon Prime, HBO Max or Spotify.
+It does not block ads on YouTube. It does not block content on Amazon Prime or Spotify.
 
 ### Sounds great, how do I use it?
 
