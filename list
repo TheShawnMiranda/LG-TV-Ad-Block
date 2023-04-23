@@ -38,5 +38,5 @@
 0.0.0.0 s3-iad-2.cf.dash.row.aiv-cdn.net
 0.0.0.0 api.us-east-1.aiv-delivery.net
 0.0.0.0 us.rdx2.lgtvsdp.com
-0.0.0.0 mediaservices.cdn-apple.com
-0.0.0.0 images-na.ssl-images-amazon.com
+# 0.0.0.0 mediaservices.cdn-apple.com
+# 0.0.0.0 images-na.ssl-images-amazon.com
