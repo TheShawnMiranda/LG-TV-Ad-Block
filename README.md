@@ -6,8 +6,8 @@
 - Test Continent: North America
 - Test Country: United States
 - Test State: Minnesota
-- Latest tested firmware version: 03.30.45
-- Date last tested: 27 March 2023
+- Latest tested firmware version: 03.30.67
+- Date last tested: 28 April 2023
 
 ## FAQ
 
@@ -18,7 +18,7 @@ It also blocks the software update server in case LG comes up with some patch th
 
 ### What doesn't it do?
 
-It does not block ads on YouTube. It does not block content on Amazon Prime, HBO Max or Spotify.
+It does not block ads on YouTube. It does not block content on Amazon Prime or Spotify.
 
 ### Sounds great, how do I use it?
 
@@ -35,3 +35,7 @@ It does not block ads on YouTube. It does not block content on Amazon Prime, HBO
 - Turn off your TV, and disconnect it.
 
 When you turn it on again, it will fail to load the recommended tab, and just show you your apps.
+
+Known bug:
+
+The LG C2 crashes when exiting the Prime Video app via the back button. This is an issue with the app, not caused by the blacklist. To resolve it, turn off the TV, disconnect it, and reconnect it. Or, to prevent it from happening, exit the Prime Video app via the home button.
