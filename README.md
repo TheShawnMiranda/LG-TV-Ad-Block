@@ -1,5 +1,9 @@
 # Ads and Recommended Content blocker for LG TVs
 
+## Update: I've moved on.
+
+I just wanted to provide an update that despite my best efforts, my C2 at least keeps showing notifications on every boot. As a result, I have decided to just take it offline. I reset my TV and erased all network settings. I will not be bring it online for the time being. While this list doesn't fully eliminate the notifications, and recommendations, it does still reduce them drastically. So I will be leaving it up. If you have new additions or changes, feel free to create a PR, and I will accept it.
+
 ## Test info
 
 - Test Device: LG C2 77-inch
@@ -7,7 +11,7 @@
 - Test Country: United States
 - Test State: Minnesota
 - Latest tested firmware version: 03.33.16
-- Date last tested: 21 June 2023
+- Date last tested: 30th June 2023
 
 ## FAQ
 
