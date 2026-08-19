@@ -8,7 +8,7 @@ If some of you using this list can afford it and are feeling generous. My Venmo 
 
 ## Update: ~Go offline~
 
-I just wanted to provide an update that despite my best efforts, my C2 at least keeps showing notifications on every boot. This appears to be a part of their plan to become a data harvesting company.[Click here](https://youtu.be/Q9uefFYe6bM) for more info. ~As a result, I have decided to just take it offline. I reset my TV and erased all network settings. I will not be bring it online for the forseeable future. While this list doesn't fully eliminate the notifications, and recommendations, it does still reduce them drastically. So~ I will be leaving it up. If you have new additions or changes, feel free to create a PR, and I will accept it.
+I just wanted to provide an update that despite my best efforts, my C2 at least keeps showing notifications on every boot. This appears to be a part of their plan to become a data harvesting company. [Click here](https://youtu.be/Q9uefFYe6bM) for more info. ~As a result, I have decided to just take it offline. I reset my TV and erased all network settings. I will not be bring it online for the forseeable future. While this list doesn't fully eliminate the notifications, and recommendations, it does still reduce them drastically. So~ I will be leaving it up. If you have new additions or changes, feel free to create a PR, and I will accept it.
 
 ## Test setup
 
